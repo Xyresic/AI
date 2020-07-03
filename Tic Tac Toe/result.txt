@@ -1,0 +1,3 @@
+-1
+best move is to not move
+draw in 0 moves
