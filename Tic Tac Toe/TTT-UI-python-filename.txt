@@ -1,1 +1,0 @@
-C:/Users/destr/Documents/AI/Tic Tac Toe/ttt.py
